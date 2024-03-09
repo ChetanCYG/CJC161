@@ -16,5 +16,9 @@ public class A {
 	public void m4() {
 		System.out.println("This is m4");
 	}
+	
+	public void m5() {
+		
+	}
 
 }
